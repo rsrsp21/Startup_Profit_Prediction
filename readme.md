@@ -6,7 +6,7 @@ This project utilizes multiple machine learning models to predict a startup's pr
 
 ## Files in Repository
 
-- `Data Science Profit Prediction.ipynb`: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
+- `Profit_Prediction.ipynb`: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
 - `50_Startups.csv`: Dataset containing information about startups and their expenses.
 
 ## Technologies Used
@@ -48,7 +48,7 @@ Based on ranking using R2 Score, MAE, and MSE, the **Random Forest Regressor** w
 
 ## Usage
 
-Run the Jupyter Notebook (`startup_profit_prediction.ipynb`) to:
+Run the Jupyter Notebook (`Profit_Prediction.ipynb`) to:
 
 1. Load and preprocess the dataset.
 2. Train multiple regression models.
@@ -62,7 +62,7 @@ To predict profit using the trained **Random Forest Regressor**, enter values fo
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/rsrsp21/Startup_Profit_Prediction)
    ```
 2. Install dependencies:
    ```sh
