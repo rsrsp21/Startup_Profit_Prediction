@@ -62,7 +62,7 @@ To predict profit using the trained **Random Forest Regressor**, enter values fo
 
 1. Clone the repository:
    ```sh
-   git clone [<repository-url>](https://github.com/rsrsp21/Startup_Profit_Prediction)
+   git clone https://github.com/rsrsp21/Startup_Profit_Prediction
    ```
 2. Install dependencies:
    ```sh
